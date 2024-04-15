@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A passionate data scientist from France 🇫🇷</h3>
+<h3 align="center">A passionate Data Engineer from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on **Machine Learning and scraping**
 
